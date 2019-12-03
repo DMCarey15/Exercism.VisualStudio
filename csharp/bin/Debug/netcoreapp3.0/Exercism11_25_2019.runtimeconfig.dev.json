@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "/Users/fullsail/.dotnet/store/|arch|/|tfm|",
-      "/Users/fullsail/.nuget/packages"
-    ]
-  }
-}
